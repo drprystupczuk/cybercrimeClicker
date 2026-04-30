@@ -56,3 +56,16 @@ E:\Users\diegoprystu\OneDrive\Educacion\IES\SVV\4°\ESTRUCTURA DE DATOS\FINAL\Fi
 E:\Users\diegoprystu\OneDrive\Educacion\IES\SVV\4°\ESTRUCTURA DE DATOS\FINAL\Final Estructura\Final Estructura\obj\x86\Debug\Final Estructura.csproj.CoreCompileInputs.cache
 E:\Users\diegoprystu\OneDrive\Educacion\IES\SVV\4°\ESTRUCTURA DE DATOS\FINAL\Final Estructura\Final Estructura\obj\x86\Debug\Final Estructura.exe
 E:\Users\diegoprystu\OneDrive\Educacion\IES\SVV\4°\ESTRUCTURA DE DATOS\FINAL\Final Estructura\Final Estructura\obj\x86\Debug\Final Estructura.pdb
+D:\Git\C#\Desktop\cybercrimeClicker\Final Estructura\bin\Debug\Final Estructura.exe
+D:\Git\C#\Desktop\cybercrimeClicker\Final Estructura\bin\Debug\Final Estructura.pdb
+D:\Git\C#\Desktop\cybercrimeClicker\Final Estructura\obj\x86\Debug\Final Estructura.csproj.AssemblyReference.cache
+D:\Git\C#\Desktop\cybercrimeClicker\Final Estructura\obj\x86\Debug\Final_Estructura.frmAcercaDe.resources
+D:\Git\C#\Desktop\cybercrimeClicker\Final Estructura\obj\x86\Debug\Final_Estructura.frmCarga.resources
+D:\Git\C#\Desktop\cybercrimeClicker\Final Estructura\obj\x86\Debug\Final_Estructura.frmJuego.resources
+D:\Git\C#\Desktop\cybercrimeClicker\Final Estructura\obj\x86\Debug\Final_Estructura.frmPantallaFin.resources
+D:\Git\C#\Desktop\cybercrimeClicker\Final Estructura\obj\x86\Debug\Final_Estructura.frmPrincipal.resources
+D:\Git\C#\Desktop\cybercrimeClicker\Final Estructura\obj\x86\Debug\Final_Estructura.Properties.Resources.resources
+D:\Git\C#\Desktop\cybercrimeClicker\Final Estructura\obj\x86\Debug\Final Estructura.csproj.GenerateResource.cache
+D:\Git\C#\Desktop\cybercrimeClicker\Final Estructura\obj\x86\Debug\Final Estructura.csproj.CoreCompileInputs.cache
+D:\Git\C#\Desktop\cybercrimeClicker\Final Estructura\obj\x86\Debug\Final Estructura.exe
+D:\Git\C#\Desktop\cybercrimeClicker\Final Estructura\obj\x86\Debug\Final Estructura.pdb
